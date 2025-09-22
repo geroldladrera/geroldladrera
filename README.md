@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🚀 &nbsp; Highly accomplished **Software Engineer** with over **12 years** of experience building scalable, high-performance web applications and enterprise solutions.  
-- 💻 &nbsp; Proficient in **HTML, CSS, JavaScript, PHP, and MySQL** with hands-on expertise in **React, Angular, and Drupal**.  
+- 💻 &nbsp; Proficient in **HTML, CSS, JavaScript, PHP, and MySQL** with hands-on expertise in **React, Angular, Vue.js**.  
 - 🌐 &nbsp; Skilled in **CMS platforms** such as **Drupal, WordPress, and Optimizely**, delivering multi-regional, content-driven platforms.  
 - 🎯 &nbsp; Strong background in **front-end optimization, performance tuning, and cross-browser compatibility**.  
 - 🔧 &nbsp; Experienced in **CI/CD pipelines, Agile, and Scrum**, with a proven track record of delivering robust, user-focused solutions.  
